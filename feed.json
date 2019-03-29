@@ -1,13 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "gfdgfdg",
+    "title": "Shanit Adam",
     "description": "",
     "home_page_url": "https://shanitadam.com",
     "feed_url": "https://shanitadam.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "gdfgfdg"
+        "name": "Shanit"
     },
     "items": [
+        {
+            "id": "https://shanitadam.com/post-1.html",
+            "url": "https://shanitadam.com/post-1.html",
+            "title": "Post 1",
+            "summary": "hello",
+            "content_html": "hello",
+            "author": {
+                "name": "Shanit"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-29T18:23:05+03:00",
+            "date_modified": "2019-03-29T18:23:05+03:00"
+        }
     ]
 }
