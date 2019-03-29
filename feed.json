@@ -9,33 +9,5 @@
         "name": "gdfgfdg"
     },
     "items": [
-        {
-            "id": "https://shanitadam.com/hfghfhgfhf.html",
-            "url": "https://shanitadam.com/hfghfhgfhf.html",
-            "title": "hfghfhgfhf",
-            "summary": "ghfhgfhhgfh",
-            "content_html": "ghfhgfhhgfh",
-            "author": {
-                "name": "gdfgfdg"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-03-29T17:03:59+03:00",
-            "date_modified": "2019-03-29T17:03:59+03:00"
-        },
-        {
-            "id": "https://shanitadam.com/gfdgfddg.html",
-            "url": "https://shanitadam.com/gfdgfddg.html",
-            "title": "gfdgfddg",
-            "summary": "fgdgfdgdgdfgdfgfdgdgd dfg fdgfdg fgdgfdg",
-            "content_html": "<p>fgdgfdgdgdfgdfgfdgdgd</p>\n<p>dfg</p>\n<p>fdgfdg</p>\n<p> </p>\n<p>fgdgfdg</p>",
-            "author": {
-                "name": "gdfgfdg"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-03-29T17:01:30+03:00",
-            "date_modified": "2019-03-29T17:01:30+03:00"
-        }
     ]
 }

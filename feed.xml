@@ -3,54 +3,10 @@
     <title>gfdgfdg</title>
     <link href="https://shanitadam.com/feed.xml" rel="self" />
     <link href="https://shanitadam.com" />
-    <updated>2019-03-29T18:15:13+03:00</updated>
+    <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
         <name>gdfgfdg</name>
     </author>
     <id>https://shanitadam.com</id>
 
-    <entry>
-        <title>hfghfhgfhf</title>
-        <author>
-            <name>gdfgfdg</name>
-        </author>
-        <link href="https://shanitadam.com/hfghfhgfhf.html"/>
-        <id>https://shanitadam.com/hfghfhgfhf.html</id>
-
-        <updated>2019-03-29T17:03:59+03:00</updated>
-            <summary>
-                <![CDATA[
-                    ghfhgfhhgfh
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                ghfhgfhhgfh
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>gfdgfddg</title>
-        <author>
-            <name>gdfgfdg</name>
-        </author>
-        <link href="https://shanitadam.com/gfdgfddg.html"/>
-        <id>https://shanitadam.com/gfdgfddg.html</id>
-
-        <updated>2019-03-29T17:01:30+03:00</updated>
-            <summary>
-                <![CDATA[
-                    fgdgfdgdgdfgdfgfdgdgd dfg fdgfdg fgdgfdg
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>fgdgfdgdgdfgdfgfdgdgd</p>
-<p>dfg</p>
-<p>fdgfdg</p>
-<p> </p>
-<p>fgdgfdg</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
