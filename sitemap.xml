@@ -1,8 +1,31 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://shanitadam.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://shanitadam.com/</loc>
 </url>
 <url>
-<loc>https://shanitadam.com/post-1.html</loc>
+<loc>https://shanitadam.com/studio/</loc>
+<lastmod>2019-05-31T11:27:47+03:00</lastmod>
+<image:image>
+<image:loc>https://shanitadam.com/media\posts\1/IMG_20190527_113951.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://shanitadam.com/studio-copy/</loc>
+<lastmod>2019-05-31T11:27:33+03:00</lastmod>
+<image:image>
+<image:loc>https://shanitadam.com/media\posts\2/rrr.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://shanitadam.com/studio-copy-copy/</loc>
+<lastmod>2019-05-31T11:27:21+03:00</lastmod>
+<image:image>
+<image:loc>https://shanitadam.com/media\posts\3/photo-1.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>

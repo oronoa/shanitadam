@@ -5,23 +5,49 @@
     "home_page_url": "https://shanitadam.com",
     "feed_url": "https://shanitadam.com/feed.json",
     "user_comment": "",
+    "icon": "https://shanitadam.com/media/website/mini-logo.png",
     "author": {
-        "name": "Shanit"
+        "name": "shanit"
     },
     "items": [
         {
-            "id": "https://shanitadam.com/post-1.html",
-            "url": "https://shanitadam.com/post-1.html",
-            "title": "Post 1",
-            "summary": "hello",
-            "content_html": "hello",
+            "id": "https://shanitadam.com/studio-copy-copy/",
+            "url": "https://shanitadam.com/studio-copy-copy/",
+            "title": "Collection",
+            "image": "https://shanitadam.com/media/posts/3/photo-1.JPG",
             "author": {
-                "name": "Shanit"
+                "name": "shanit"
             },
             "tags": [
             ],
-            "date_published": "2019-03-29T18:23:05+03:00",
-            "date_modified": "2019-03-29T18:23:05+03:00"
+            "date_published": "2019-05-31T11:06:58+03:00",
+            "date_modified": "2019-05-31T11:27:21+03:00"
+        },
+        {
+            "id": "https://shanitadam.com/studio-copy/",
+            "url": "https://shanitadam.com/studio-copy/",
+            "title": "Art",
+            "image": "https://shanitadam.com/media/posts/2/rrr.jpg",
+            "author": {
+                "name": "shanit"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-31T11:06:55+03:00",
+            "date_modified": "2019-05-31T11:27:33+03:00"
+        },
+        {
+            "id": "https://shanitadam.com/studio/",
+            "url": "https://shanitadam.com/studio/",
+            "title": "Studio",
+            "image": "https://shanitadam.com/media/posts/1/IMG_20190527_113951.jpg",
+            "author": {
+                "name": "shanit"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-31T11:06:33+03:00",
+            "date_modified": "2019-05-31T11:27:47+03:00"
         }
     ]
 }
